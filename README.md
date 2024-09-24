@@ -1,6 +1,6 @@
 # 📊 Whatsapp Chat Analyzer
 
-A **Whatsapp Chat Analyzer** built with **Python** and **Streamlit** that allows users to analyze chat logs for key insights. This tool offers a comprehensive breakdown of chat statistics, activity timelines, word clouds, emoji usage, and sentiment analysis. You can perform analysis for a specific user or view overall chat trends.
+**Whatsapp Chat Analyzer** built with **Python** and **Streamlit** that allows users to analyze chat logs for key insights. This tool offers a comprehensive breakdown of chat statistics, activity timelines, word clouds, emoji usage, and sentiment analysis. You can perform analysis for a specific user or view overall chat trends.
 
 ## 🚀 Features
 - Top statistics on message activity
